@@ -1,3 +1,3 @@
 # Password-validator
 
-A very simple html plus javascript page to validate the password field.
+A very simple html page with password validator using Javascript.
